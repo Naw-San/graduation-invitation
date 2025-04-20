@@ -1,0 +1,44 @@
+body {
+    margin: 1;
+    padding: 10px 1px 1px 1px;
+    height: 100vh;
+    background: url('/images/ArsenalKeyChange.jpeg') no-repeat center center;
+    background-size: 97%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.invitation-card {
+    text-align: left;
+    padding-right: 66%;
+    padding-bottom: 25%;
+}
+
+.text-layer {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.invitation-card h1 {
+    color: rgb(249, 246, 246);
+    font-size: 40px;
+}
+.text-back {
+    position: absolute;
+    top: 3px;
+    text-indent: -18%;
+}
+
+.text-front {
+    position: relative;
+    color: white;
+    z-index: 6;
+    left: 180px;
+    top: 20px;
+    
+}
