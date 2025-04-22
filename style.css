@@ -71,3 +71,20 @@ body {
     color: aquamarine;
 
 }
+
+@media (max-width: 768px) {
+    body {
+        background-size: cover;
+        padding: 10px
+    }
+
+    h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .invite-card {
+        width: 100%;
+        padding: 20px;
+    }
+}
