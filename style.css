@@ -1,6 +1,6 @@
 body {
     margin: 1;
-    padding-top: 55px;
+    padding-top: 50px;
     padding-left: 10px;
     height: 100vh;
     background: url('images/ArsenalKeyChange.jpeg') no-repeat center center;
@@ -13,8 +13,8 @@ body {
 
 .invitation-card {
     text-align: left;
-    padding-right: 65%;
-    padding-bottom: 20%;
+    padding-right: 55%;
+    padding-bottom: 15%;
 
 }
 
@@ -29,7 +29,7 @@ body {
 .invitation-card h1 {
     padding-top: 10%;
     color: #eef0ef;
-    font-size: 55px;
+    font-size: 50px;
 }
 .text-back {
     font-family: 'Great Vibes', cursive;
@@ -45,7 +45,7 @@ body {
     font-size: 90px;
     position: relative;
     color: rgb(85, 233, 169);
-    left: 200px;
+    left: 100%;
     top: 77px;
     
 }
